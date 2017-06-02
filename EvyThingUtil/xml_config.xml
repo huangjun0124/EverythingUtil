@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<syssettings>
+  <window_height>579</window_height>
+  <window_width>930</window_width>
+  <match_whole_word>false</match_whole_word>
+  <match_path>false</match_path>
+  <match_case>false</match_case>
+  <match_regex>true</match_regex>
+</syssettings>
